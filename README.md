@@ -45,6 +45,10 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshAravindra&layout=compact&theme=vue&hide_border=true" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Hi,+I'm+Ritesh+Aravindra;Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer." />
+</p>
+
 
 
  </div>
