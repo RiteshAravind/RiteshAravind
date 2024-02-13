@@ -43,7 +43,6 @@ You can click the Preview link to take a look at your changes.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshAravindra&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RiteshAravindra)
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiteshAravindra)
 <img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshAravindra&layout=compact&theme=vue&hide_border=true" />
